@@ -1,0 +1,53 @@
+#blue{
+	color: blue;
+}
+#green{
+	color:green;
+}
+#red{
+	color: red;
+}
+#yellow{
+	color:yellow;
+}
+div {
+	background-color:burlywood;
+	margin: 10px;
+	width: 25%;
+	border: solid 5px burlywood;
+	padding: 10px;
+}
+h3 {
+	font-size: 25px;
+}
+h1, h2 {
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30px;
+}
+
+ol {
+	list-style-type: disc inside;
+	text-indent: 20px;
+}
+
+div.header, div.instructions{
+	width: 75%;
+	background-color: burlywood;
+}
+
+.winsAndLosses{
+	float: left;
+	width: 20%;
+	height: 60px;
+}
+.userScore{
+	width: 15%;
+	height: 60px;
+}
+.gemPic{
+	height: 60px;
+	margin: 10px;
+}
